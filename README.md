@@ -92,3 +92,17 @@
 ## ICLR 2021
 - [ ] NOISE-ROBUST CONTRASTIVE LEARNING [pdf](https://openreview.net/pdf?id=D1E1h-K3jso)
 - [ ] ROBUST CURRICULUM LEARNING: FROM CLEAN LABEL DETECTION TO NOISY LABEL SELF-CORRECTION [pdf](https://openreview.net/pdf?id=lmTWnm3coJJ)
+- [ ] ROBUST LEARNING VIA GOLDEN SYMMETRIC LOSS OF (UN)TRUSTED LABELS [pdf](https://openreview.net/pdf?id=20qC5K2ICZL)
+- [ ] LONG-TAIL ZERO AND FEW-SHOT LEARNING VIA CONTRASTIVE PRETRAINING ON AND FOR SMALL DATA [pdf](https://openreview.net/pdf?id=_cadenVdKzF)
+- [ ] A SIMPLE APPROACH TO DEFINE CURRICULA FOR TRAINING NEURAL NETWORKS  [pdf](https://openreview.net/pdf?id=SVP44gujOBL)
+- [ ] INTERACTIVE WEAK SUPERVISION: LEARNING USEFUL HEURISTICS FOR DATA LABELING [pdf](https://openreview.net/pdf?id=IDFQI9OY6K)
+- [ ] PROTOTYPICAL REPRESENTATION LEARNING FOR RELATION EXTRACTION [pdf](https://openreview.net/pdf?id=aCgLmfhIy_f)
+- [ ] NEIGHBOR CLASS CONSISTENCY ON UNSUPERVISEDDOMAIN ADAPTATION [pdf](https://openreview.net/pdf?id=defQ1AG6IWn)
+- [ ] ON THE IMPORTANCE OF LOOKING AT THE MANIFOLD [pdf](https://openreview.net/pdf?id=zFM0Uo_GnYE)
+- [ ] SHAPE OR TEXTURE: UNDERSTANDING DISCRIMINATIVE FEATURES IN CNNS [pdf](https://openreview.net/pdf?id=NcFEZOi-rLa)
+- [ ] LEARNING TO EXPLORE WITH PLEASURE [pdf](https://openreview.net/pdf?id=XqQQlvHvtI)
+- [ ]  [pdf]()
+- [ ]  [pdf]()
+- [ ]  [pdf]()
+
+
