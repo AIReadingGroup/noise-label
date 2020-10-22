@@ -101,8 +101,4 @@
 - [ ] ON THE IMPORTANCE OF LOOKING AT THE MANIFOLD [pdf](https://openreview.net/pdf?id=zFM0Uo_GnYE)
 - [ ] SHAPE OR TEXTURE: UNDERSTANDING DISCRIMINATIVE FEATURES IN CNNS [pdf](https://openreview.net/pdf?id=NcFEZOi-rLa)
 - [ ] LEARNING TO EXPLORE WITH PLEASURE [pdf](https://openreview.net/pdf?id=XqQQlvHvtI)
-- [ ]  [pdf]()
-- [ ]  [pdf]()
-- [ ]  [pdf]()
-
 
